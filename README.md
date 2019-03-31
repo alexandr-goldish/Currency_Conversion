@@ -1,3 +1,5 @@
+<p align="center"><img src="app-screen.png" /></p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
